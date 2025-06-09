@@ -73,8 +73,7 @@
 
 
 ### AI & Machine Learning  
-![AI](https://img.shields.io/badge/AI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AI](https://img.shields.io/badge/AI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -87,23 +86,5 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO.com)
-- 📧 Email: your.email@example.com
-
----
-
-<p align="center">
-  <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI1MGdrbTd6cnA2ZWd2cG05Z2dzNmp0dWxrMGlvNHF3eWJhbWs3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
-</p>
 
 
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
