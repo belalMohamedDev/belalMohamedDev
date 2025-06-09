@@ -1,59 +1,88 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<!-- Custom GitHub Profile README -->
 
-<h1 align="center">Hey there 👋 I'm Bela! Mohamed</h1>
+<h1 align="center">👋 Hi, I'm Fares Mohamed</h1>
 
 <p align="center">
-  🚀 Software Developer | Problem Solver | Open to Collaboration
+  🧠 Back-end Developer | .NET Enthusiast | Lifelong Learner from Egypt 🇪🇬
 </p>
 
 ---
 
+### 📫 Connect With Me
+
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/fares-mohamed-0417b6269" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.instagram.com/fares_agwa01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="YOUR_GITHUB_URL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.facebook.com/fars.agwa.7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ---
 
-### 🛠 Current Projects
+### 👨‍💻 About Me
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[pathsseriesBackEnd](YOUR_REPO_URL)** | Protocols Shop Project | Updated 1 hour ago |
-| **[elminiawyPattsseriesUserApp](YOUR_REPO_URL)** | Shop fixture application | Updated Jan 3 |
-| **[elminiawyPattsseriesAdminPanel](YOUR_REPO_URL)** | Admin panel for shop system | Updated Nov 24, 2024 |
-| **[elminiawyPattsseriesDelivery](YOUR_REPO_URL)** | Delivery system component | Updated Nov 17, 2024 |
-| **[finder_backend](YOUR_REPO_URL)** | Backend service | Updated Aug 17, 2024 |
-| **[altayer_backend](YOUR_REPO_URL)** | Multi-vendor delivery API (Node.js/Express) | Updated Jan 27, 2024 |
-| **[finder](YOUR_REPO_URL)** | Cocktailbox project | Updated Jun 2, 2024 |
-| **[altayer_user_app](YOUR_REPO_URL)** | User application | Updated May 17, 2024 |
-| **[facebook_grouib_task](YOUR_REPO_URL)** | Facebook group task manager | Updated May 6, 2024 |
+- 🔭 Currently working on back-end systems using **C#**, **.NET**, and **Entity Framework**
+- 🌱 Diving deeper into **Clean Architecture**, **MVC**, and **Web API design**
+- 📚 Studying **Software Engineering** and **Logic Circuits**
+- 🧘 Constantly learning and exploring the world of software engineering
 
 ---
 
-### 🔍 Repository Finder
-- **Type** → **Language** → **Sort** → **New**
+### 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Store.Fares](https://github.com/fares-ma/Store.Fares.git) | 🛒 Store Management System with product CRUD, sales tracking | C#, .NET Core, EF |
+| [Company.Fares](https://github.com/fares-ma/Company.Fares.git) | 🏢 Manage employees, departments using MVC design | ASP.NET MVC, EF |
+| [Examination-System](https://github.com/fares-ma/Examination-System-.git) | 📝 Manage student exams, question banks, evaluations | ASP.NET, SQL Server |
 
 ---
 
-### 🛠️ Technologies & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 💻 Tech Stack
+
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fares-ma&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
+
+---
+
+### 🔥 Currently Working On
+
+- 💼 Building a **Company Management System** using MVC  
+- 🧠 Learning advanced **Entity Framework** and **LINQ**  
+- 🚀 Designing a **mini ERP system** for internal store use  
+- 📝 Preparing for upcoming **university exams**  
+
+---
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coder gif"/>
+</div>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
 
 ---
 
