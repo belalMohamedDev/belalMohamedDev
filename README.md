@@ -12,13 +12,17 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/belalmohameddev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=purple&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.instagram.com/belalma7med/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.facebook.com/belalm.agwa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
 
 ---
 
