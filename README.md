@@ -76,21 +76,3 @@
 
 > 💡 *If you're looking for a passionate Flutter & backend developer with real-world project experience — let's connect!*
 
-
-
-### AI & Machine Learning  
-![AI](https://img.shields.io/badge/AI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 📌 Clean Architecture in Action
-
-- Separation of Concerns via `data`, `domain`, and `presentation` layers
-- API communication using `Dio`, token refresh, and retry logic
-- Local caching with Hive and efficient state handling using Cubit
-- Firebase integration and dynamic routing with custom navigation
-
----
-
-
-
