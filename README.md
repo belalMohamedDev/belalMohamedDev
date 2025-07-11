@@ -50,6 +50,7 @@
 | **E-Commerce Platform** | A multi-role shopping app for customers, vendors, delivery & admin | Flutter, Node.js, MongoDB, Redis    |
 | **Real Estate App**     | Real-time map-based booking & location filters    | Flutter, Google Maps, Cloud Firestore |
 | **Forrira App (Bakery)**| Clean UI ordering system for a local patisserie   | Flutter, Firebase, Bloc/Cubit       |
+| **Graduation Project (Finder)**  |Missing Persons & Found Items Management System   | Flutter, Node.js, Flask, Docker, NGINX , RabbitMQ    |
 | **Graduation Project**  | Microservices with Node.js, Flask, Docker, NGINX | Node.js, Flask, Docker, RabbitMQ    |
 
 ---
