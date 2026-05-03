@@ -176,8 +176,8 @@ Manual tracking and identification inefficiencies.
 **Impact**  
 - 🤖 Automated detection process  
 
-
----
+**Tech**  
+Flutter • Node.js • Flask • OpenCV  
 
 💻 [GitHub](https://github.com/belalMohamedDev/finder)
 
