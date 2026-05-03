@@ -14,27 +14,30 @@
 <div align="center">
 
 <a href="https://github.com/belalMohamedDev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-belalMohamedDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://wa.me/201069225923" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-01069225923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/belalmohameddev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-belalmohameddev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:belalmohameddev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-belalmohameddev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://belalmohameddev.github.io/BelalMohamed/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=web" height="40"/>
 </a>
 
 </div>
----
 
 ## 🧑‍💻 About Me
 
