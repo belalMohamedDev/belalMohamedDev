@@ -50,8 +50,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🛒 GoTawfeer (E-Commerce App)
 - Full commerce flow: authentication, catalog, cart, checkout, order history
 - Improved checkout completion time by ~30%
