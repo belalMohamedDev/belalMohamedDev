@@ -11,21 +11,29 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   <a href="mailto:belalagwa0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/belalmohameddev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/belalma7med/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.facebook.com/belalm.agwa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+<div align="center">
 
+<a href="https://github.com/belalMohamedDev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-belalMohamedDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201069225923" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-01069225923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/belalmohameddev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-belalmohameddev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:belalmohameddev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-belalmohameddev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://belalmohameddev.github.io/BelalMohamed/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
