@@ -50,10 +50,14 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### 🛒 GoTawfeer (E-Commerce App)
 - Full commerce flow: authentication, catalog, cart, checkout, order history
 - Improved checkout completion time by ~30%
-- Tech: Flutter, Bloc, Dio, Clean Architecture
+- Tech: Flutter, Bloc, Dio, Clean Architecture  
+
+📱 App Store • 🤖 Play Store • 💻 GitHub
 
 ---
 
@@ -61,30 +65,55 @@
 - Multi-role system (Customer, Driver, Vendor)
 - Real-time GPS tracking & live order updates
 - Reduced API latency by 25–35%
-- Tech: Flutter, Node.js, Dio, GPS
+- Tech: Flutter, Node.js, Dio, GPS  
+
+📱 App Store • 🤖 Play Store • 💻 GitHub
 
 ---
 
 ### 🍰 Sweetna (Dessert Ordering App)
 - Full ordering system with multilingual support
 - Smooth UX across purchase journey
-- Tech: Flutter, Cubit, REST APIs
+- Tech: Flutter, Cubit, REST APIs  
+
+🤖 Play Store • 💻 GitHub
 
 ---
 
 ### 🩸 AthrApp (Blood Donation Platform)
 - Connects donors with patients & blood banks
 - Location-based discovery + real-time notifications
-- Tech: Flutter, Firebase, REST APIs
+- Tech: Flutter, Firebase, REST APIs  
+
+💻 GitHub
 
 ---
 
 ### 🤖 Finder (AI Face Recognition System)
 - AI system to detect missing children using face recognition
 - Built backend pipelines for image processing
-- Tech: Flutter, Node.js, Flask, OpenCV, Docker
+- Tech: Flutter, Node.js, Flask, OpenCV, Docker  
+
+💻 GitHub
+---
+
+
+## 📦 Other Projects
+
+### 🎓 Ivory Training
+- Professional training platform with video streaming and subscriptions
+- Tech: Flutter, REST APIs, Payments  
+
+💻 **GitHub:** https://github.com/belalMohamedDev/ivory
 
 ---
+
+### 🌸 Blossom (In Progress)
+- Kids social platform with moderation and real-time features
+- Tech: Flutter, Firebase, Clean Architecture  
+
+💻 **GitHub:** https://github.com/belalMohamedDev/blossom
+
 
 ## 🧰 Tech Stack
 
