@@ -14,23 +14,23 @@
 <div align="center" style="border-top:1px solid #2d3748; border-bottom:1px solid #2d3748; padding: 20px 0;">
 
 <a href="https://github.com/belalMohamedDev" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin:0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="display:block; margin:0 15px;"/>
 </a>
 
 <a href="https://wa.me/201069225923" style="text-decoration:none;">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" style="margin:0 15px;"/>
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" style="display:block; margin:0 15px;"/>
 </a>
 
 <a href="https://www.linkedin.com/in/belalmohameddev/" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="display:block; margin:0 15px;"/>
 </a>
 
 <a href="mailto:belalmohameddev@gmail.com" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin:0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="display:block; margin:0 15px;"/>
 </a>
 
 <a href="https://belalmohameddev.github.io/BelalMohamed/" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/domain.png" height="45" style="margin:0 15px;"/>
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="45" style="display:block; margin:0 15px;"/>
 </a>
 
 </div>
