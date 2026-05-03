@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://wa.me/201069225923">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="45"/>
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/belalmohameddev/">
@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://belalmohameddev.github.io/BelalMohamed/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="45"/>
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="45"/>
 </a>
 
 </div>
