@@ -16,18 +16,22 @@
 <a href="https://github.com/belalMohamedDev">
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/201069225923">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/belalmohameddev/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:belalmohameddev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://belalmohameddev.github.io/BelalMohamed/">
   <img src="https://img.icons8.com/fluency/48/domain.png" height="45"/>
