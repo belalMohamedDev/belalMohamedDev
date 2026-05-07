@@ -65,22 +65,23 @@
 
 # 🚀 Featured Case Studies
 
-| Project | Overview | Problem | Solution | Impact | Tech Stack | 
-|---|---|---|---|---|---|---|
-| 🛒 **GoTawfeer** | Full-featured e-commerce app with complete shopping experience | Slow checkout flow and heavy API usage | Optimized API calls using caching & retry logic, improved Cubit state management, streamlined checkout | ⚡ Checkout speed improved by ~30% <br> 📉 Reduced API calls | Flutter • Bloc • Dio • Clean Architecture | 
-| 🛵 **Forrira** | Multi-vendor delivery system with real-time tracking | High latency in tracking and inefficient API communication | Implemented real-time updates, optimized networking layer, scalable multi-role architecture | ⚡ Reduced API latency by 25–35% <br> 📍 Improved tracking accuracy | Flutter • Node.js • GPS • Dio | 
-| 🍰 **Sweetna** | Dessert ordering app with smooth UX and scalable structure | User flow complexity and performance bottlenecks | Simplified UI flow, optimized state handling, improved API integration | 🚀 Better user experience <br> 📈 Higher order completion | Flutter • Cubit • REST APIs | 
-| 🩸 **AthrApp** | Platform connecting donors with patients | Difficulty finding nearby donors quickly | Location-based discovery and real-time notifications | ❤️ Faster donor-patient connection | Flutter • Firebase • REST APIs | 
-| 🤖 **Finder** | AI system for detecting missing persons using face recognition | Manual tracking and identification inefficiencies | Face recognition using OpenCV and backend processing pipeline | 🤖 Automated detection process | Flutter • Node.js • Flask • OpenCV | 
+| Project | Overview | Problem | Solution | Impact | Tech Stack |
+|---|---|---|---|---|---|
+| 🛒 **GoTawfeer** | Full-featured e-commerce app with complete shopping experience | Slow checkout flow and heavy API usage | Optimized API calls using caching & retry logic, improved Cubit state management, streamlined checkout process | ⚡ Checkout speed improved by ~30%<br>📉 Reduced API calls significantly | Flutter • Bloc • Dio • Clean Architecture |
+| 🛵 **Forrira** | Multi-vendor delivery system with real-time tracking | High latency in tracking and inefficient API communication | Implemented real-time updates, optimized networking layer, built scalable multi-role architecture | ⚡ Reduced API latency by 25–35%<br>📍 Improved tracking accuracy | Flutter • Node.js • GPS • Dio |
+| 🍰 **Sweetna** | Dessert ordering app with smooth UX and scalable structure | User flow complexity and performance bottlenecks | Simplified UI flow, optimized state handling, improved API integration | 🚀 Better user experience<br>📈 Higher order completion | Flutter • Cubit • REST APIs |
+| 🩸 **AthrApp** | Platform connecting donors with patients | Difficulty finding nearby donors quickly | Location-based discovery and real-time notifications | ❤️ Faster donor-patient connection | Flutter • Firebase • REST APIs |
+| 🤖 **Finder** | AI system for detecting missing persons using face recognition | Manual tracking and identification inefficiencies | Face recognition using OpenCV with backend processing pipeline | 🤖 Automated detection process | Flutter • Node.js • Flask • OpenCV |
 
 ---
 
 # 📦 Other Projects
 
 | Project | Description |
-|---|---|---|
-| 🎓 **Ivory Training** | Learning platform with video & subscriptions | 
-| 🌸 **Blossom** *(In Progress)* | Kids social platform |
+|---|---|
+| 🎓 **Ivory Training** | Learning platform with video courses & subscriptions |
+| 🌸 **Blossom** *(In Progress)* | Kids social platform currently under development |
+
 
 ## 🧰 Tech Stack
 
