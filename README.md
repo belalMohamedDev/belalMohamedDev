@@ -65,139 +65,25 @@
 
 # 🚀 Featured Case Studies
 
----
-
-## 🛒 GoTawfeer (E-Commerce)
-
-**Overview**  
-Full-featured e-commerce app with complete shopping experience.
-
-**Problem**  
-Slow checkout flow and heavy API usage affecting user experience.
-
-**Solution**  
-- Optimized API calls using caching & retry logic  
-- Improved state management with Cubit  
-- Streamlined checkout process  
-
-**Impact**  
-- ⚡ Checkout speed improved by ~30%  
-- 📉 Reduced API calls significantly  
-
-**Tech**  
-Flutter • Bloc • Dio • Clean Architecture  
-
-📱 [App Store](#) • 🤖 [Play Store](#) • 💻 [GitHub](https://github.com/belalMohamedDev/gotawfeer)
+| Project | Overview | Problem | Solution | Impact | Tech Stack | Links |
+|---|---|---|---|---|---|---|
+| 🛒 **GoTawfeer** | Full-featured e-commerce app with complete shopping experience | Slow checkout flow and heavy API usage | Optimized API calls using caching & retry logic, improved Cubit state management, streamlined checkout | ⚡ Checkout speed improved by ~30% <br> 📉 Reduced API calls | Flutter • Bloc • Dio • Clean Architecture | [GitHub](https://github.com/belalMohamedDev/gotawfeer) |
+| 🛵 **Forrira** | Multi-vendor delivery system with real-time tracking | High latency in tracking and inefficient API communication | Implemented real-time updates, optimized networking layer, scalable multi-role architecture | ⚡ Reduced API latency by 25–35% <br> 📍 Improved tracking accuracy | Flutter • Node.js • GPS • Dio | [GitHub](https://github.com/belalMohamedDev/forrira) |
+| 🍰 **Sweetna** | Dessert ordering app with smooth UX and scalable structure | User flow complexity and performance bottlenecks | Simplified UI flow, optimized state handling, improved API integration | 🚀 Better user experience <br> 📈 Higher order completion | Flutter • Cubit • REST APIs | [GitHub](https://github.com/belalMohamedDev/sweetna) |
+| 🩸 **AthrApp** | Platform connecting donors with patients | Difficulty finding nearby donors quickly | Location-based discovery and real-time notifications | ❤️ Faster donor-patient connection | Flutter • Firebase • REST APIs | [GitHub](https://github.com/belalMohamedDev/athrapp) |
+| 🤖 **Finder** | AI system for detecting missing persons using face recognition | Manual tracking and identification inefficiencies | Face recognition using OpenCV and backend processing pipeline | 🤖 Automated detection process | Flutter • Node.js • Flask • OpenCV | [GitHub](https://github.com/belalMohamedDev/finder) |
 
 ---
 
-## 🛵 Forrira (Delivery System)
+# 📦 Other Projects
 
-**Overview**  
-Multi-vendor delivery system with real-time tracking.
-
-**Problem**  
-High latency in tracking and inefficient API communication.
-
-**Solution**  
-- Implemented real-time updates  
-- Optimized networking layer  
-- Built scalable architecture for multiple roles  
-
-**Impact**  
-- ⚡ Reduced API latency by 25–35%  
-- 📍 Improved tracking accuracy  
-
-**Tech**  
-Flutter • Node.js • GPS • Dio  
-
-📱 [App Store](#) • 🤖 [Play Store](#) • 💻 [GitHub](https://github.com/belalMohamedDev/forrira)
-
----
-
-## 🍰 Sweetna (Ordering App)
-
-**Overview**  
-Dessert ordering app with smooth UX and scalable structure.
-
-**Problem**  
-User flow complexity and performance bottlenecks.
-
-**Solution**  
-- Simplified UI flow  
-- Optimized state handling  
-- Improved API integration  
-
-**Impact**  
-- 🚀 Better user experience  
-- 📈 Higher order completion  
-
-**Tech**  
-Flutter • Cubit • REST APIs  
-
-🤖 [Play Store](#) • 💻 [GitHub](https://github.com/belalMohamedDev/sweetna)
-
----
-
-## 🩸 AthrApp (Blood Donation)
-
-**Overview**  
-Platform connecting donors with patients.
-
-**Problem**  
-Difficulty finding nearby donors quickly.
-
-**Solution**  
-- Location-based discovery  
-- Real-time notifications  
-
-**Impact**  
-- ❤️ Faster donor-patient connection  
-
-**Tech**  
-Flutter • Firebase • REST APIs  
-
-💻 [GitHub](https://github.com/belalMohamedDev/athrapp)
-
----
-
-## 🤖 Finder (AI System)
-
-**Overview**  
-AI system for detecting missing persons using face recognition.
-
-**Problem**  
-Manual tracking and identification inefficiencies.
-
-**Solution**  
-- Face recognition using OpenCV  
-- Backend processing pipeline  
-
-**Impact**  
-- 🤖 Automated detection process  
-
-**Tech**  
-Flutter • Node.js • Flask • OpenCV  
-
-💻 [GitHub](https://github.com/belalMohamedDev/finder)
-
----
-
-## 📦 Other Projects
-
-### 🎓 Ivory Training
-- Learning platform with video & subscriptions  
-💻 https://github.com/belalMohamedDev/ivory  
-
----
-
-### 🌸 Blossom (In Progress)
-- Kids social platform  
-💻 https://github.com/belalMohamedDev/blossom  
-
----
+| Project | Description | Link |
+|---|---|---|
+| 🎓 **Ivory Training** | Learning platform with video & subscriptions | [GitHub](https://github.com/belalMohamedDev/ivory) |
+| 🌸 **Blossom** *(In Progress)* | Kids social platform | [GitHub](https://github.com/belalMohamedDev/blossom) |
 
 ## 🧰 Tech Stack
+
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
